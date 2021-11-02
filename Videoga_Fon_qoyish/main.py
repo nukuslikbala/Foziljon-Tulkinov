@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-video=cv2.VideoCapture(r'green.mp4')
+video=cv2.VideoCapture(r'green3.mp4')
 video2=cv2.VideoCapture(r'b.mp4')
 
 if not video.isOpened():
